@@ -22,17 +22,7 @@ def KURO():
 #-------------------------------
 
 
-print ('''
-       ===========    /////////////
-          ====        |  twitter  |/
-          ====        |-----------|/ 
-          ====        |   falah   |/ 
-          ====        | 0xfff0800 |/ 
-          ====        |___________|/
->---------------------------------------->
-Developer: 0xfff0800
 
-''')
 
 def ketik(s):
 	for ASU in s + '\n':
@@ -43,10 +33,20 @@ def ketik(s):
 os.system('clear')
 
 print (' ')
-ketik (" Welcome to the integrated tool of hack Twitter I think over time it will be supported with a guess ....")
+ketik ("\033[1;36m Welcome to the integrated tool of hack Twitter I think over time it will be supported with a guess ....\033[1;36m")
 sleep(0.5)
 
-
+print ('''
+       ===========    /////////////
+          ====        |  twitter  |/
+          ====        |-----------|/ 
+          ====        |   falah   |/ 
+          ====        | 0xfff0800 |/ 
+          ====        |___________|/
+>---------------------------------------->
+Developer: 0xfff0800
+snapchat:  flaah999
+''')
 
 base_url = 'https://twitter.com/users'
 email_sub_url = '/email_available?email='

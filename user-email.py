@@ -4,8 +4,7 @@ import os
 import time
 
 os.system("clear")
-os.system("figlet Attack Starting")
-print("Author   : Falah")
+print("\033[1;36m Author   : Falah \033[1;36m")
 time.sleep(2)
 print("snapchat : flaah999")
 time.sleep(1)
